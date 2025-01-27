@@ -1,0 +1,87 @@
+.titulo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+    padding-top: 30px;
+    color: #f28930;
+    text-align: center;
+}
+
+.textoespecial{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 40px;
+    padding-top: 15px;
+    color: #bc9d58;
+    text-align: center;
+}
+.texto{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding-top: 15px;
+    color: black;
+    text-align: center;
+}
+.botones{
+     width: 200px;
+     height: 50px;
+     background-color: #42291d ;
+     color: #bc9d58;
+     text-align: center;
+     font-size: 16px;
+     margin: 10px auto; 
+     margin-left: 20px;
+     margin-right: 20 px;
+     font-family: 'Times New Roman', Times, serif;
+     font-size: 20px;
+     cursor: pointer;
+
+}
+
+
+
+  .content{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+        color:white;
+        font-size: 30px;
+        margin-left: 8px;
+        min-width: 120px;
+        padding-bottom: 10px;
+
+  }
+
+
+  .imgg {
+   
+    justify-content: center;
+    display: block;
+     width: auto;
+     height: auto;
+     text-align: center;
+     line-height: 50px;
+     font-size: 16px;
+     margin: 0 auto; 
+     cursor: pointer;
+  }
+
+  .barra{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    padding-top: 60px;
+    color: white;
+    background-color: #42291d;
+    padding-bottom: 30px;
+  }
+  .imggbarra {
+    display: block;
+     width: auto;
+     margin-top: 50px;
+     padding-left: 10px;
+     height: auto;
+     font-size: 16px;
+     cursor: pointer;
+     max-width: 40%; 
+     max-height:90%; 
+    }
